@@ -1,0 +1,2 @@
+ID, Password, Nickname, Name, E-mail, Birth, Phone-number, github
+network,54321,network,황성민,network@naver.com,981111,01012345678
